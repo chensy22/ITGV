@@ -2,7 +2,7 @@
 
 
 
-<img src="./ITGVdataset.jpg" alt="ITGV Dataset" width="500">
+<img src="./ITGVdataset.png" alt="ITGV Dataset" width="500">
 
 
 
